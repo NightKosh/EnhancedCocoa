@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>EnhancedCocoa</name>
+	<author>NightKosh</author>
+	<packageId>NightKosh.EnhancedCocoa</packageId>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<description>
+		Allows to growing cocoa trees under the roof.
+	</description>
+</ModMetaData>

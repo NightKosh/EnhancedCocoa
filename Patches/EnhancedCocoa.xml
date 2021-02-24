@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Plant_TreeCocoa" and defName]/plant</xpath>
+				<value>
+					<interferesWithRoof>false</interferesWithRoof>
+				</value>
+			</li>
+<!--			<li Class="PatchOperationReplace">-->
+<!--				<xpath>Defs/ThingDef[defName="Plant_TreeCocoa" and defName]/plant/harvestedThingDef</xpath>-->
+<!--				<value>-->
+<!--					<harvestedThingDef>-->
+<!--						<li>Chocolate</li>-->
+<!--						<li>WoodLog</li>-->
+<!--					</harvestedThingDef>-->
+<!--				</value>-->
+<!--			</li>-->
+		</operations>
+	</Operation>
+</Patch>
